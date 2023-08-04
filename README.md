@@ -1,9 +1,7 @@
-# Fabric Example Mod
+# Unfix MC-181190
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+This mod brings back the feature of cured villager's discount stacking which is "fixed" in 23w31a.
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod is available under the CC BY-NC-SA 4.0 license.

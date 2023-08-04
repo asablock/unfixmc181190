@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Unfix MC-181190",
-  "description": "This mod bring back the feature of cured villager's discount stacking which is \"fixed\" in 23w31a.",
+  "description": "This mod brings back the feature of cured villager's discount stacking which is \"fixed\" in 23w31a.",
   "authors": [
     "asablock"
   ],
