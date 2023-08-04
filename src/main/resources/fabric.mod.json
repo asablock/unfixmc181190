@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "unfixmc181190",
+  "version": "${version}",
+
+  "name": "Unfix MC-181190",
+  "description": "This mod bring back the feature of cured villager's discount stacking which is \"fixed\" in 23w31a.",
+  "authors": [
+    "asablock"
+  ],
+  "contact": {
+  },
+
+  "license": "CC0-1.0",
+  "icon": "icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+  },
+  "mixins": [
+    "unfixmc181190.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.22",
+    "minecraft": ">=1.20.2-alpha.23.31.a",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
