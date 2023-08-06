@@ -9,9 +9,11 @@
     "asablock"
   ],
   "contact": {
+    "homepage": "https://www.mcmod.cn/class/11559.html",
+    "sources": "https://github.com/asablock/unfixmc181190"
   },
 
-  "license": "CC0-1.0",
+  "license": "CC BY-NC-SA 4.0",
   "icon": "icon.png",
 
   "environment": "*",
